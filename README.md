@@ -4,4 +4,4 @@ A robo-advising portfolio generator that filters and selects up to 12 stocks, on
 
 To do this, we will be extracting data of all the stocks then calculating for standard deviation, market beta, and correlation. For each "hero" stock, we will generate an associating portfolio and then selecting the best one. The roboadvisor will then create a csv file of the desired stocks for the user.
 
-Skills: Python, Pandas, NumPy, NumPy_financial, Matplotlib, yfinance
+Dependencies: Python, Pandas, NumPy, NumPy_financial, Matplotlib, yfinance
